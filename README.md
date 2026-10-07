@@ -4,10 +4,3 @@ Bizni ijtimoiy tarmoqlarda kuzating...
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AndroidDasturlashUZ2026)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/androidstudio2026)
-
-
-# CalculatorAndroid
-Fully functionable calculator app in Android Studio
-Youtube Tutorial here : https://youtu.be/X3KQdwVlo1Q
-
-![calculator](https://user-images.githubusercontent.com/68380115/169702523-1a5d826d-fb0f-4377-bc58-f62d4ca53535.jpg)
