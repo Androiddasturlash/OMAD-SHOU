@@ -10,4 +10,4 @@ Bizni ijtimoiy tarmoqlarda kuzating...
 Fully functionable calculator app in Android Studio
 Youtube Tutorial here : https://youtu.be/X3KQdwVlo1Q
 
-![calculator](https://user-images.githubusercontent.com/logo.png)<img width="554" height="554" alt="images" src="https://github.com/user-attachments/assets/8decfde2-9198-44a8-8390-7a37d96ea52c" />
+![calculator](https://user-images.githubusercontent.com/68380115/169702523-1a5d826d-fb0f-4377-bc58-f62d4ca53535.jpg)
